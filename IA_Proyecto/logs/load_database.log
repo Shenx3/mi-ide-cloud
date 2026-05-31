@@ -44,3 +44,22 @@
 2026-05-12 23:26:55,910 - INFO - Registros válidos insertados: 3
 2026-05-12 23:26:58,864 - INFO - Registros inválidos insertados en tabla de error: 5
 2026-05-12 23:27:13,252 - INFO - Fin del proceso de carga a base de datos
+2026-05-30 22:39:13,701 - INFO - Inicio del proceso de carga a base de datos
+2026-05-30 22:54:03,481 - INFO - Inicio del proceso de carga a base de datos
+2026-05-30 23:00:01,263 - INFO - Conexión a PostgreSQL exitosa
+2026-05-30 23:00:05,168 - INFO - Tablas verificadas/creadas correctamente
+2026-05-30 23:15:44,769 - INFO - Inicio del proceso de carga a base de datos
+2026-05-30 23:15:51,972 - INFO - Conexión a PostgreSQL exitosa
+2026-05-30 23:15:55,095 - INFO - Tablas verificadas/creadas correctamente
+2026-05-30 23:19:11,004 - INFO - Registros válidos insertados: 549427
+2026-05-30 23:22:47,569 - INFO - Inicio del proceso de carga a base de datos
+2026-05-30 23:22:50,158 - INFO - Conexión a PostgreSQL exitosa
+2026-05-30 23:22:50,739 - INFO - Tablas verificadas/creadas correctamente
+2026-05-30 23:24:07,224 - ERROR - Error insertando registros válidos: Can't reconnect until invalid transaction is rolled back.  Please rollback() fully before proceeding (Background on this error at: https://sqlalche.me/e/20/8s2b)
+2026-05-30 23:24:08,031 - INFO - Fin del proceso de carga a base de datos
+2026-05-31 01:32:13,144 - INFO - Inicio del proceso de carga a base de datos
+2026-05-31 01:32:15,792 - INFO - Conexión a PostgreSQL exitosa
+2026-05-31 01:32:16,364 - INFO - Tablas verificadas/creadas correctamente
+2026-05-31 01:34:24,566 - INFO - Registros válidos insertados: 549427
+2026-05-31 01:34:26,460 - INFO - Registros inválidos insertados en tabla de error: 6292
+2026-05-31 01:34:28,970 - INFO - Fin del proceso de carga a base de datos

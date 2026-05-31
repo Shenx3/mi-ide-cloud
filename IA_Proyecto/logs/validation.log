@@ -94,3 +94,21 @@ Edad fuera de rango (18-120)    6292
 2026-05-30 17:57:25,176 - WARNING - Registro inválido index=643: trans_num=74d2489fd6e8bf8dc68c96647ae9d0ae, cc_num=36485887555770, amt=30.91, trans_date_trans_time=2020-06-21 15:49:29, observaciones=Edad fuera de rango (18-120)
 2026-05-30 17:57:25,176 - WARNING - Registro inválido index=771: trans_num=f9ab9557fdff6ead341cd51fd038a8cf, cc_num=3576021480694169, amt=3.28, trans_date_trans_time=2020-06-21 16:36:44, observaciones=Edad fuera de rango (18-120)
 2026-05-30 17:57:25,176 - INFO - Registro de validación completado
+2026-05-30 22:42:21,810 - INFO - Inicio del proceso de validación del dataset procesado
+2026-05-30 22:42:30,955 - INFO - Total registros procesados: 555719
+2026-05-30 22:42:30,955 - INFO - Total registros válidos: 549427
+2026-05-30 22:42:30,955 - INFO - Total registros inválidos: 6292
+2026-05-30 22:42:30,957 - INFO - Top motivos de invalidez:
+observaciones
+Edad fuera de rango (18-120)    6292
+2026-05-30 22:42:30,958 - WARNING - Registro inválido index=112: trans_num=bfcb7bca0abb957f3bb3aedf0c53a448, cc_num=4587657402165341815, amt=26.03, trans_date_trans_time=2020-06-21 12:48:14, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,958 - WARNING - Registro inválido index=142: trans_num=e558e093053328aba4af71a4b98a9a4e, cc_num=371009169330125, amt=173.09, trans_date_trans_time=2020-06-21 12:59:36, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,958 - WARNING - Registro inválido index=208: trans_num=141db8af987da5cf06bc853a20f51e6a, cc_num=3557442674264531, amt=111.57, trans_date_trans_time=2020-06-21 13:24:28, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,959 - WARNING - Registro inválido index=272: trans_num=8c3f3b2b91f1a39b5c6e44b38fb3986e, cc_num=3576021480694169, amt=9.8, trans_date_trans_time=2020-06-21 13:47:13, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,959 - WARNING - Registro inválido index=432: trans_num=6e7e8df3b997f3c381a4b81db3487834, cc_num=4587657402165341815, amt=7.46, trans_date_trans_time=2020-06-21 14:40:35, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,959 - WARNING - Registro inválido index=437: trans_num=2856807e2595d232ec4751b7ccd6cb58, cc_num=4587657402165341815, amt=6.08, trans_date_trans_time=2020-06-21 14:43:13, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,959 - WARNING - Registro inválido index=610: trans_num=26866e18e766431bd6dc764ef1b8f8b8, cc_num=36485887555770, amt=2.3, trans_date_trans_time=2020-06-21 15:40:05, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,959 - WARNING - Registro inválido index=622: trans_num=6fc9e11a22f8f5c28d6e45b38c808206, cc_num=3541160328600277, amt=7.62, trans_date_trans_time=2020-06-21 15:43:53, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,960 - WARNING - Registro inválido index=643: trans_num=74d2489fd6e8bf8dc68c96647ae9d0ae, cc_num=36485887555770, amt=30.91, trans_date_trans_time=2020-06-21 15:49:29, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,960 - WARNING - Registro inválido index=771: trans_num=f9ab9557fdff6ead341cd51fd038a8cf, cc_num=3576021480694169, amt=3.28, trans_date_trans_time=2020-06-21 16:36:44, observaciones=Edad fuera de rango (18-120)
+2026-05-30 22:42:30,960 - INFO - Registro de validación completado
