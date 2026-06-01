@@ -63,3 +63,9 @@
 2026-05-31 01:34:24,566 - INFO - Registros válidos insertados: 549427
 2026-05-31 01:34:26,460 - INFO - Registros inválidos insertados en tabla de error: 6292
 2026-05-31 01:34:28,970 - INFO - Fin del proceso de carga a base de datos
+2026-05-31 14:39:47,227 - INFO - Inicio del proceso de carga a base de datos
+2026-05-31 14:39:49,950 - INFO - Conexión a PostgreSQL exitosa
+2026-05-31 14:39:50,543 - INFO - Tablas verificadas/creadas correctamente
+2026-05-31 14:41:38,839 - INFO - Registros válidos insertados: 549427
+2026-05-31 14:41:40,568 - INFO - Registros inválidos insertados en tabla de error: 6292
+2026-05-31 14:41:43,845 - INFO - Fin del proceso de carga a base de datos
